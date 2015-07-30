@@ -1,10 +1,10 @@
 {
   "name": "ngMaskAlias",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/fabioviana/ngMaskAlias",
   "authors": [
     "Carlos Oliveira <candreoliveira@gmail.com>",
-	"Fábio Viana <fabiovianabh@gmail.com>"
+	"Fï¿½bio Viana <fabiovianabh@gmail.com>"
   ],
   "main": "dist/ngMask.js",
   "description": "Best ngMask for AngularJS!",
